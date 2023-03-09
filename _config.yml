@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: bseony2 IT Log                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 안녕하세요   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
